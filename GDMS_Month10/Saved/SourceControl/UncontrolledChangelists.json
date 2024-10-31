@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/BP_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3H/C1U13K7NAJARPMR1DJL7H2.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Blueprints/BP_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Controllers/AIC_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A8/1NM74M8ART92YJN2QBE882.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NO/GPV1ECSLKXVBSL2NB320SM.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Behaviors/Blackboards/BB_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Behaviors/BehaviorTrees/BT_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/BPC_Health.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/BlueprintComponents/BPC_Health.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Interfaces/I_Enemy.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Enums/E_EnemyStates.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Behaviors/BT_Enemy_Base.uasset",
+				"C:/UnrealProjects/GDMS-Month-10/GDMS_Month10/Content/Characters/Enemies/Behaviors/Tasks/BTT_RandomLocation.uasset",
 				"C:/Users/Roberto/Documents/Github/GDMS-Month-10/GDMS_Month10/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
 			]
 		}
